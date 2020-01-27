@@ -1,0 +1,189 @@
+*{margin:0;padding:0; }
+
+.menuphai.ra {
+    right: 0px;
+}
+
+.nutmenu a.fa.fa-bars {
+    color: white;
+    font-size: 19px;
+}
+
+.nutmenu {
+    position: fixed;
+    top: 6px;
+    right: 14px;
+    padding: 10px 15px;
+    background: #33333387;
+}
+
+.top6 h2 {
+    font-size: 19px;
+}
+
+.top5 img.img-responsive {
+    margin-bottom: 31px;
+}
+
+.top5 img.img-responsive:hover {
+    opacity: 0.8;
+}
+
+.top4 h2 {
+    font-size: 41px;
+}
+
+.top4.anhnen {
+    background: url(images/callout.jpg);
+    height: 232px;
+    padding: 70px 0px;
+    background-size: cover;
+    color: white;
+}
+
+a.btn.btn-default.nuttrang {
+    border-radius: 0px;
+    font-size: 12px;
+}
+
+._4cot h3 {
+    font-size: 18px;
+}
+
+.iconto .fa {
+    background: white;
+    color: black;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    border-radius: 50%;
+    font-size: 37px;
+    color: #337ab7;
+}
+
+hr.vienduoi {
+    width: 20%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 21px;
+}
+
+.top3 h2 {
+    font-size: 26px;
+    padding-top: 33px;
+}
+
+.top3 {
+    background: #337ab7;
+    color: white;
+    padding-bottom: 34px;
+}
+
+._4cot p {
+    font-size: 13px;
+}
+
+.top2 {
+    padding: 26px 0px;
+}
+
+.top2 p {
+    font-size: 15px;
+}
+
+.top1 a.btn.btn-default {
+    border: none;
+    border-radius: 0px;
+    background: #999;
+    color: white;
+    font-size: 12px;
+}
+
+.top1 a.btn.btn-default:hover {
+    background: #000000d4;
+}
+
+.top1 h1 {
+    font-size: 32px;
+    padding-top: 30%;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menuphai {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    background: black;
+    height: 900px;
+    width: 240px;
+    color: white;
+    z-index: 3;
+    transition: all 0.4s;
+    right: -300px;
+}
+
+ul.menudoc {
+    list-style: none;
+}
+
+.menudoc a {
+    color: white;
+    padding: 10px 13px;
+    display: block;
+    border-bottom: 1px solid gray;
+    font-size: 12px;
+}
+
+.footer {
+    padding: 35px;
+    font-size: 11px;
+}
+
+.top6.xanh {
+    background: #337ab7;
+    color: white;
+    padding: 46px 0px;
+}
+
+.top6 a.nut1.btn.btn-default {
+    background: white;
+    color: black;
+}
+
+a.nut2.btn.btn-default, a.nut1.btn.btn-default {
+    border-radius: 0px;
+    background: black;
+    color: white;
+    margin-left: 21px;
+    border: none;
+}
+
+a.btn.btn-default.viewmoreitems {
+    border-radius: 0px;
+    color: white;
+    background: #00000087;
+}
+
+
+
+.top2 h2 {
+    font-size: 22px;
+}
+
+.top1 p {
+    font-size: 12px;
+}
+
+.top1 {
+    height: 901px;
+    width: 100%;
+    display: block;
+    background: url(images/bg.jpg);
+    background-size: cover;
+}
+ 
+
+ 
