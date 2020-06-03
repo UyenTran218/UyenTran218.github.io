@@ -1,5 +1,23 @@
 *{margin:0;padding:0; }
 
+.fa.fa-envelope-o {
+    color: #337ab7;
+}
+
+.em {
+    font-size: 13px;
+}
+
+.dt {
+    font-size: 13px;
+}
+
+a.fa-3x {
+    margin: 13px;
+}
+
+
+
 .menuphai.ra {
     right: 0px;
 }
@@ -65,7 +83,7 @@ hr.vienduoi {
     width: 20%;
     text-align: center;
     margin: auto;
-    margin-bottom: 21px;
+    margin-bottom: 6px;
 }
 
 .top3 h2 {
