@@ -83,7 +83,7 @@ hr.vienduoi {
     width: 20%;
     text-align: center;
     margin: auto;
-    margin-bottom: 6px;
+    margin-bottom: 32px;
 }
 
 .top3 h2 {
@@ -168,7 +168,7 @@ ul.menudoc {
 
 .top6 a.nut1.btn.btn-default {
     background: white;
-    color: black;
+    color: #337ab7;
 }
 
 a.nut2.btn.btn-default, a.nut1.btn.btn-default {
